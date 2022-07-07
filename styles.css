@@ -1,0 +1,10 @@
+.pricing {
+    display: flex;
+}
+.h2 {
+    padding: 10px;
+    border: 1px dotted black;
+}
+.tit {
+    margin-left: 66px;
+}
